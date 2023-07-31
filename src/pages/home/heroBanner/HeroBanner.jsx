@@ -39,7 +39,7 @@ const HeroBanner = () => {
             <div className="opacity-layer"></div>
             <ContentWrapper>
                 <div className="heroBannerContent">
-                    <span className="title">Welcome to Your Cinematic Journey!</span>
+                    <span className="title">Explore the cinemas!</span>
                     <span className="subTitle">
                     "Lights up, Stress Down: Dive into Movie Bliss!"
                     </span>
